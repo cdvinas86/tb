@@ -258,7 +258,7 @@ div#bs-example-navbar-collapse-1 {
 }
 /*--content--*/
 .welcome{
-	padding:6em 0;
+	padding:3em 0;
 }
 .welcome h2 {
     color: #0066B2;
@@ -271,7 +271,7 @@ div#bs-example-navbar-collapse-1 {
     text-align: center;
 }
 .tab-head {
-    padding-top: 3em;
+   /* padding-top: 3em;*/
 }
 .tabs li{
 	display:inline-block;
@@ -612,7 +612,7 @@ img.zoom-img:hover {
 }
 /*--contact--*/
 .contact{
-	padding:6em 0;
+	padding:0 0 3em 0;
 }
 .us-contact{
 	text-align:center;
