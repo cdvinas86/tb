@@ -19,7 +19,7 @@ body a{
 	margin: 0;
 }
 h1,h2,h3,h4,h5,h6,label,p{
-	margin:0;	
+	margin:0;
 }
 /*--banner--*/
 #geo{
@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 	height: 100%;
 	width: 100%;
 	opacity:0.5;
-	z-index:1;	
+	z-index:1;
 	top:0;
 }
 canvas{
@@ -204,7 +204,7 @@ nav a:focus {
     border: none;
     margin: 0;
     margin-top: 5px;
-    min-height: auto;  
+    min-height: auto;
 }
 .navbar-default .navbar-nav > .active > a{
     color: #0066B2;
@@ -225,14 +225,14 @@ div#bs-example-navbar-collapse-1 {
 	padding: 10px 0;
 	margin:0 0.8em;
 }
-.navbar-default .navbar-nav > li > a:hover, 
+.navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
     color: #0066B2;
     background: none;
     outline: none;
 }
 .navbar-default .navbar-nav > .open > a,
- .navbar-default .navbar-nav > .open > a:hover, 
+ .navbar-default .navbar-nav > .open > a:hover,
  .navbar-default .navbar-nav > .open > a:focus {
     color:  #0066B2;
     background:none;
@@ -264,7 +264,7 @@ div#bs-example-navbar-collapse-1 {
     color: #0066B2;
     font-size: 3em;
     font-family: 'Montserrat Subrayada', sans-serif;
-	text-align: center;	
+	text-align: center;
 }
 /*----*/
 .tabs {
@@ -292,7 +292,7 @@ div#bs-example-navbar-collapse-1 {
 }
 .fashion-tab{
     text-align: center;
-	padding: 3em 0 0;
+	/*padding: 3em 0 0;*/
 }
 .fashion-tab h4,.fashion-tab1 h4,.fashion-tab2 h4 {
     color: #FD9F3E;
@@ -406,7 +406,7 @@ img.zoom-img:hover {
 	-moz-transition-timing-function: ease-out;
 	-moz-transition-duration: 750ms;
 	overflow: hidden;
-  
+
 }
 /*----*/
 
@@ -430,7 +430,7 @@ img.zoom-img:hover {
 .portfolio-modal .modal-content img {
        margin: 0 auto;
 }
-.portfolio-modal .modal-content p {	
+.portfolio-modal .modal-content p {
 	font-size:1em;
 	padding:30px 0;
 	color: #fff;
@@ -621,7 +621,7 @@ img.zoom-img:hover {
     color: #0066B2;
     font-size: 3em;
     font-family: 'Montserrat Subrayada', sans-serif;
-	text-align: center;	
+	text-align: center;
 }
 .us-contact p{
 	color: #A9A9A9;
@@ -789,7 +789,7 @@ img.zoom-img:hover {
 	color: #0066B2;
     font-size: 3em;
     font-family: 'Montserrat Subrayada', sans-serif;
-	text-align: center;	
+	text-align: center;
 }
 .galley-grid p{
 	color: #A9A9A9;
@@ -812,7 +812,7 @@ img.zoom-img:hover {
 	display:inline-block;
 	vertical-align:top;
 	font-weight: 300;
-	
+
 	width: 100%;
 }
 .b-link-stripe .b-wrapper{
@@ -885,7 +885,7 @@ img.zoom-img:hover {
 	color: #0066B2;
     font-size: 3em;
     font-family: 'Montserrat Subrayada', sans-serif;
-	text-align: center;	
+	text-align: center;
 }
 .about-top {
     padding-top: 6em;
@@ -902,7 +902,7 @@ img.zoom-img:hover {
 .about-at h5{
 	color: #FD9F3E;
     font-size: 1.5em;
-    font-family: 'Montserrat Subrayada', sans-serif;	
+    font-family: 'Montserrat Subrayada', sans-serif;
 }
 .about-at p{
 	color: #A9A9A9;
@@ -926,7 +926,7 @@ img.zoom-img:hover {
 	color: #FFFFFF;
     font-size: 3em;
     font-family: 'Montserrat Subrayada', sans-serif;
-	text-align: center;	
+	text-align: center;
 }
 .team p{
 	color: #fff;
@@ -942,7 +942,7 @@ img.zoom-img:hover {
 .member-team {
     text-align: center;
 }
-.member-team img{   
+.member-team img{
    margin:0 auto;
 }
 .member-team h4 {
@@ -1015,13 +1015,13 @@ ul.grid-blog li{
 ul.grid-blog li a, ul.grid-blog li span{
 	text-decoration: none;
 	font-size: 1em;
-	color: #A9A9A9;	
+	color: #A9A9A9;
 	display: inline-block;
 	margin: 0 1em 0 0;
 }
 ul.grid-blog li i{
 	margin: 0 5px 0 0;
-	color: #0066B2;	
+	color: #0066B2;
 }
 ul.grid-blog {
 	padding: 0.8em 0 0.5em;
@@ -1115,7 +1115,7 @@ h5.reply a:hover {
 	resize:none;
 	width: 100%;
 	margin: 0.5em 0em;
-	height: 185px;	
+	height: 185px;
 }
 .send1{
 	text-align:center;
@@ -1378,7 +1378,7 @@ ul.nav.navbar-nav li a {
 }
 .navbar-collapse {
      border-top: none;
-     box-shadow: none; 
+     box-shadow: none;
 }
 .navbar-default .navbar-toggle {
     border-color: #0066B2;
@@ -1571,7 +1571,7 @@ td.add-check a {
     width: 100%;
     padding-top: 1em;
 }
-.us-contact h3,.galley-grid h3,.team h3 ,.about-top h3 
+.us-contact h3,.galley-grid h3,.team h3 ,.about-top h3
 ,.short-top h3,.blog-1 h3{
     font-size: 2.2em;
 }
@@ -1614,7 +1614,7 @@ td.add-check a {
 
 /*--typo--*/
 .page-header h3 {
-  font-size: 2em; 
+  font-size: 2em;
 }
 button.btn.btn-lg {
   font-size: 1em;
@@ -1788,7 +1788,7 @@ a.read-2 {
     font-size: 0.85em;
 }
 .member-team h4 {
-    font-size: 1.2em;	
+    font-size: 1.2em;
 }
 .member-team span {
     font-size: 1.2em;
@@ -1853,7 +1853,7 @@ a.more {
 }
 .contact-bottom input[type="text"], .contact-bottom textarea {
     margin: 0.5em 0;
-    font-size: 0.9em; 
+    font-size: 0.9em;
 }
 .contact-bottom textarea {
     min-height: 130px;
