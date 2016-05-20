@@ -1,5 +1,5 @@
 (function(){
-
+debugger
   //------------------------------
   // Mesh Properties
   //------------------------------
@@ -244,7 +244,7 @@
         renderer.context.arc(lx, ly, 4, 0, Math.PIM2);
         renderer.context.fillStyle = light.diffuseHex;
         renderer.context.fill();
-        
+
       }
     }
   }
@@ -272,4 +272,4 @@
   // Let there be light!
   initialise();
 
-})();        
+})();
